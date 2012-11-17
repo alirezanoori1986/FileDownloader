@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDownloader", "FileDownloader\FileDownloader.csproj", "{72D3ED9A-87FD-4023-8A3E-CAD1891277CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDownloader.Demo", "FileDownloader.Demo\FileDownloader.Demo.csproj", "{1C495630-1F12-4806-8507-97ED6C255D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDownloader35", "FileDownloader35\FileDownloader35.csproj", "{3762F83E-A018-47AD-B33D-05323FD55337}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72D3ED9A-87FD-4023-8A3E-CAD1891277CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D3ED9A-87FD-4023-8A3E-CAD1891277CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D3ED9A-87FD-4023-8A3E-CAD1891277CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D3ED9A-87FD-4023-8A3E-CAD1891277CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C495630-1F12-4806-8507-97ED6C255D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C495630-1F12-4806-8507-97ED6C255D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C495630-1F12-4806-8507-97ED6C255D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C495630-1F12-4806-8507-97ED6C255D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3762F83E-A018-47AD-B33D-05323FD55337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3762F83E-A018-47AD-B33D-05323FD55337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3762F83E-A018-47AD-B33D-05323FD55337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3762F83E-A018-47AD-B33D-05323FD55337}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
